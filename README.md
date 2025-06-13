@@ -1,2 +1,2 @@
-# GitHub-Clinic-demos
-Demo repository for NMFS GitHub Clinic tutorials
+# GitHub Clinic Demos
+This is a demo repository for NMFS GitHub Clinic tutorials.
