@@ -1,4 +1,5 @@
 # Grilled Hot Dogs
+Servings: 6 hot dogs
 
 ## Ingredients
 - Hot dogs
